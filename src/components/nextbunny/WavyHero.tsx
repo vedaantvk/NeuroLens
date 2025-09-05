@@ -40,7 +40,7 @@ export default function BlueHero() {
     window.addEventListener("resize", updateWindowSize);
     return () => window.removeEventListener("resize", updateWindowSize);
   }, []);
-  return <div className="relative overflow-hidden min-h-[90vh] flex flex-col items-center justify-center text-center px-4">
+  return <div className="relative overflow-hidden min-h-screen flex flex-col items-center justify-center text-center px-4">
       <Waves />
 
       {}
