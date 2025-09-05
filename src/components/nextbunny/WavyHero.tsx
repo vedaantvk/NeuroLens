@@ -88,7 +88,7 @@ export default function BlueHero() {
       }} transition={{
         delay: 0.4
       }} className="text-5xl md:text-7xl font-bold text-foreground mb-6 leading-tight tracking-tight">
-          Your MVP Today.
+          NeuroLens
           <br />
           Market Leader Tomorrow.
         </motion.h1>
