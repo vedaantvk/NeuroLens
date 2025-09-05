@@ -90,7 +90,7 @@ export default function BlueHero() {
       }} className="text-5xl md:text-7xl font-bold text-foreground mb-6 leading-tight tracking-tight">
           NeuroLens
           <br />
-          Market Leader Tomorrow.
+          Where Commits Meet Intelligence
         </motion.h1>
 
         {}
@@ -103,9 +103,9 @@ export default function BlueHero() {
       }} transition={{
         delay: 0.6
       }} className="text-muted-foreground text-xl md:text-2xl mb-12 max-w-3xl mx-auto font-light leading-relaxed">
-          Stop perfecting. Start launching.
+          AI-powered insights into your GitHub journey.
           <br />
-          Build your MVP in 24 hours and let the market guide you.
+          
         </motion.p>
 
         {}
